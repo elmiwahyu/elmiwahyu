@@ -17,7 +17,7 @@
 - **Others:** MySQL
 
 ## 📈 My GitHub Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievements
 - 🥇 Winner of the 2023 UI/UX Design Competition at Muhammadiyah University's KOMFESIF
